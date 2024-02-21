@@ -1,0 +1,44 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled files
+*.class
+*.war
+*.jar
+
+# Environment-specific files
+.env
+*.env
+
+# Editor backup files
+*~
+*.swp
+*.swo
+
+# Ignore the local database file (if any)
+db.sqlite3
+
+# Ignore any compiled or built files
+dist/
+build/
+*.egg-info/
